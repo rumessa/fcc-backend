@@ -1,0 +1,25 @@
+body {
+    background-color: #FFD7D7;
+    color: #D75F5F;
+}
+
+a {
+    text-decoration: none;
+}
+
+.list-group {
+    width: 500px;
+}
+
+.list-group-item {
+    background-color: #D75F5F;
+    margin: 5px 0px;
+    color: white;
+
+}
+
+.list-group-item:hover, .list-group-item.action  {
+    background-color: #D78787;
+    border-color: #D78787; 
+    color: white;
+}
